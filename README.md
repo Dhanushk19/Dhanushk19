@@ -1,3 +1,4 @@
+<img src="./eatsleep.gif" width="700"/>
 <h1 align="center">Hi 👋, I'm Dhanush K</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="center" margalt="coding" width="500" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47dk25dfa02v1q276xzztr770bzu3i7k49anc2gtzq&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
